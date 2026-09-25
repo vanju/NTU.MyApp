@@ -5,6 +5,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         GreetUser("User");
+        Console.WriteLine("Hola!");
     }
     static void GreetUser(string name)
     {
